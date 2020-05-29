@@ -9,7 +9,6 @@ fact_sourcing: 9
 fact_editorial: -1
 ownership: unknown
 founded: 1865-06-06
-subj_appeal:
 subj_pseudoscience: 0
 subj_conspiracy: 0
 subj_message: -1

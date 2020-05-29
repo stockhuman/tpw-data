@@ -8,7 +8,7 @@ bias_ideological:
 fact_sourcing: -1
 fact_editorial: 3
 ownership: unknown
-founded: 2015-02-00
+founded: 2015-04-15 # via WHOIS
 subj_appeal:
 subj_pseudoscience: 2
 subj_conspiracy: 6
