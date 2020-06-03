@@ -10,11 +10,21 @@ founded: 0000-00-00
 
 
 #### bias_social `(-10 - 10)`
+This rating places a publication's average political leaning on the commonly understood social left/right spectrum. As with other attempts at reducing political complexity to so few axes of values, this axis primarily represents the publication's embrace or regection of social values evident in coverage, describing the _desired sociopolitical outcome_ aspect of ideological positions on issues such as healthcare type and availability, religious freedom, moral values, identitarian interests, and the nature of violence. Combined with the ideological descriptor, it can inform bias towards socioeconomic classes or identities.
 
-#### bias_economic `(-10 - 10)`
+The frequency of support for political positions (or attack of competing positions) by any means (see bias types factored for analysis) places `-10` as support for anarchy and `10` as support for totalitarianism. A zero indicates either a perfect balance of biases or a lack of content that meaningfully engages with arguments that push this bias in either direction.
+
+A data entry must always contain this rating, there is no unrated value.
+
+#### bias_governmental `(-10 - 10)`
+This rating places a publication's average political leaning on the commonly understood authoritarian/libertarian spectrum. As with other attempts at reducing political complexity to so few axes of values, this axis primarily represents the publication's embrace or regection of legislation at any level, describing the _governmental size and scope_ aspect of ideological positions on issues such as military spending, taxation policy, power projection, policing, free trade, governmental structure, and support for authorities. Combined with the ideological descriptor, it can inform a bias towards individualism or collectivism in opinion pieces.
+
+The frequency of support for political positions (or attack of competing positions) by any means (see bias types factored for analysis) places `-10` as support for anarchy and `10` as support for totalitarianism. A zero indicates either a perfect balance of biases or a lack of content that meaningfully engages with arguments that push this bias in either direction.
+
+A data entry must always contain this rating, there is no unrated value.
 
 #### bias_ideological `(string)`
-This field describes the political affiliation or bias of an organisation, supplementing the economic and social ratings to best fit particular interests within political spheres.
+This field describes the political affiliation or bias of an organisation, supplementing the economic and social ratings to best fit particular interests within political spheres. This tag should be informed by self-description on the part of the organisation when applicable, and by the conventional bias analysis otherwise.
 
 #### fact_sourcing `(-1 / 0 - 10)`
 This rating denotes both the quality and quantity of individual inline citations within any given article. Whilst contextually dependant (opinion pieces need not necessarily cite sources, not all claims within an article support its thesis and thus warrant sourcing), most articles that attempt to draw conclusions from exterior facts should cite them.
@@ -66,6 +76,9 @@ How often does a publication advertise, advocate for, or otherwise promote pseud
 This rating, like other subjective categories, serves more to give an impression of a site than to affix a specific meaning by virtue of numerated values.
 
 #### subj_conspiracy `(0 - 10)`
+How often does a publication suggest, promote, invent  or otherwise endorse conspiracy theories? Like the pseudoscience rating, publications that explitly cover the aesthetics or meaning of conspiracy theories in an academic or journalistic meta context do not necessarily exist on this scale. This rating serves as an indicator of the severity and frequency of any conspiracy theories promoted by the organisation. Theories that advocate for genocide and aither promote or act as plausible deniability for human rights abuses are rated more harshly. _Maintaining any of the following theories as fact constitutes an automatic 8 or above:_ Holocaust denial, Armenian Genocide denial, Nanking massacre denial or Imperial Japanese apologia, genetic inferiority or supremacy of any peoples, and the Great Replacement Theory.
+
+This rating, like other subjective categories, serves more to give an impression of a site than to affix a specific meaning by virtue of numerated values.
 
 #### subj_message `(-1 / 0 - 10)`
 This is the _balance index_, denoting how often a publication publishes stories that run contrary to their stated branding or message. A right-leaning publication running leftist authors when covering headlining stories, for instance, would place it anywhere from 1 to 4, whereas a completely _on brand_ publication that only publishes stories when they can be interpreted in a lens that is favourable to the publication's political leaning, would score a 10. Essentially, 0 is an impartial news aggregator, and 10 is a propaganda machine.
@@ -79,3 +92,17 @@ Tags denote the overall nature of a publication. Common tags in use now are _sat
 Sample a minimum of five recent articles _(recent: within six months)_. Selection need not be random, and if possible should target pieces that aim to establish a truth claim or narrative from current events. Articles that are syndications of previously published work should not be selected. If it is impossible to avoid syndicated content, their rating may be derived from the parent content's rating. Articles that summarize other content without additional analysis, are not good candidates for determining sourcing, as the facts of a situation may already be widely known _(Ex.: An article tallying election results)_.
 
 ### Fact Checking
+
+
+### Bias Analysis
+
+*Support*
+
+*Bias by omission*
+
+*Denouncement*
+
+---
+A note on stances: this project aims for an international weighting on issues, whilst recognizing local contexts.
+
+As an example, the United States' lack of universal health care places it in the [global minority](https://en.wikipedia.org/wiki/List_of_countries_with_universal_health_care), where public health care is generally regarded as a minor left-leaning issue or politically neutral (without further context). A non-American source commenting negatively on this issue need not be labelled left-leaning by virtue of the American position being comparatively right-wing.
