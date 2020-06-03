@@ -1,8 +1,8 @@
 # tpw-data
 
 ## Meta
-ownership: unknown
-founded: 0000-00-00
+**ownership**: `string`, parent company, proprietor(s) or other
+**founded**: `0000-00-00`, date of founding, using domain purchase date if uncertain
 
 ---
 
@@ -88,11 +88,13 @@ _This name was chosen deliberately to avoid the notion of "balanced coverage" of
 #### tags `([string])`
 Tags denote the overall nature of a publication. Common tags in use now are `satire` and `fake-news`, and are best applied when either a publication self-describes as an applicable tag _(Ex.: `satire`, `state-owned`)_ or the content of a site overwhelmingly warrants a notice _(Ex.: `fake-news`, `single-author`)_.
 
+---
+
 ### Article selection
 Sample a minimum of five recent articles _(recent: within six months)_. Selection need not be random, and if possible should target pieces that aim to establish a truth claim or narrative from current events. Articles that are syndications of previously published work should not be selected. If it is impossible to avoid syndicated content, their rating may be derived from the parent content's rating. Articles that summarize other content without additional analysis, are not good candidates for determining sourcing, as the facts of a situation may already be widely known _(Ex.: An article tallying election results)_.
 
 ### Fact Checking
-When checking articles for false or misleading claims, recognized fact-checking resources may be used, as well as common sense and, with ample evidence, original research. This project shall organically determine which fact checking organisations may be deemed reliable in their respective fields of expertise, and likewise what standards of original research are permissable on a case by case basis. _Common sense_ fact checking generally applies only to blatanty false information that makes great, extraordianry claims for the purposes of clickbaiting.
+When checking articles for false or misleading claims, recognized fact-checking resources may be used, as well as common sense and, with ample evidence, original research. This project shall organically determine which fact checking organisations may be deemed reliable in their respective fields of expertise, and likewise what standards of original research are permissable on a case by case basis. _Common sense_ fact checking generally applies only to blatanty false information that makes great, extraordinary claims for the purposes of clickbaiting.
 
 Failed fact checks are rated on a severity scale as follows:
 
