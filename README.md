@@ -86,7 +86,7 @@ This is the _balance index_, denoting how often a publication publishes stories 
 _This name was chosen deliberately to avoid the notion of "balanced coverage" of an issue, where some viewpoints are inherently less relevant at times, and may give undue weight to fringe or biased coverage. Instead, the messaging consistency of an organisation denotes how often they cover topics relative to their own stated commitment to the whole truth._
 
 #### tags `([string])`
-Tags denote the overall nature of a publication. Common tags in use now are _satire_ and _fake-news_, and are best applied when either a publication self-describes as an applicable tag _(Ex.: satire, state-owned)_ or the content of a site overwhelmingly warrants a notice _(Ex.: fake-news, single-author)_.
+Tags denote the overall nature of a publication. Common tags in use now are `satire` and `fake-news`, and are best applied when either a publication self-describes as an applicable tag _(Ex.: `satire`, `state-owned`)_ or the content of a site overwhelmingly warrants a notice _(Ex.: `fake-news`, `single-author`)_.
 
 ### Article selection
 Sample a minimum of five recent articles _(recent: within six months)_. Selection need not be random, and if possible should target pieces that aim to establish a truth claim or narrative from current events. Articles that are syndications of previously published work should not be selected. If it is impossible to avoid syndicated content, their rating may be derived from the parent content's rating. Articles that summarize other content without additional analysis, are not good candidates for determining sourcing, as the facts of a situation may already be widely known _(Ex.: An article tallying election results)_.
@@ -98,9 +98,9 @@ Failed fact checks are rated on a severity scale as follows:
 
 Severity | Meaning
 -------- | -------
-Minor    | The failed check does not affect the substance of the article. If retracted or corrected during the article's relevance, it does not count. Incorrect dates, figures and names may be counted within reason as minor fact checking failures.
-Moderate | These failed fact checks
-Severe   | A severe fact check fail impacts the validity of the article of the whole. The central thesis, headline or conclusion must be logically negated to be counted as severe.
+Minor    | The failed check does not affect the substance of the article. If retracted or corrected during the article's relevance, it does not count. The window of relevancy relies greatly on publishing frequency and the prominence of the article within the broader media landscape and the publication itself (ex.: cover stories). Incorrect dates, figures and names may be counted within reason as minor fact checking failures assuming they do not impact the substance of the article.
+Moderate | These failed fact checks _plausibly_ reject the thesis, headline or conclusion of an article. Major _supporting_ claims without evidence may be conunted as moderate or minor depending on the overall claims within a story.
+Severe   | A severe fact check fail impacts the validity of the article as a whole. The central thesis, headline or conclusion must be logically negated to be counted as severe. Examples include claiming events that did not happen, distorting timelines to fit a narrative, falsifying statements or evidence, presenting false or anachronous statistics (when more recent ones are available) or otherwise directly manipulating reporting to create a false narrative.
 
 ### Bias Analysis
 
