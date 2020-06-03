@@ -76,7 +76,7 @@ How often does a publication advertise, advocate for, or otherwise promote pseud
 This rating, like other subjective categories, serves more to give an impression of a site than to affix a specific meaning by virtue of numerated values.
 
 #### subj_conspiracy `(0 - 10)`
-How often does a publication suggest, promote, invent  or otherwise endorse conspiracy theories? Like the pseudoscience rating, publications that explitly cover the aesthetics or meaning of conspiracy theories in an academic or journalistic meta context do not necessarily exist on this scale. This rating serves as an indicator of the severity and frequency of any conspiracy theories promoted by the organisation. Theories that advocate for genocide and aither promote or act as plausible deniability for human rights abuses are rated more harshly. _Maintaining any of the following theories as fact constitutes an automatic 8 or above:_ Holocaust denial, Armenian Genocide denial, Nanking massacre denial or Imperial Japanese apologia, genetic inferiority or supremacy of any peoples, and the Great Replacement Theory.
+How often does a publication suggest, promote, invent  or otherwise endorse conspiracy theories? Like the pseudoscience rating, publications that explitly cover the aesthetics or meaning of conspiracy theories in an academic or journalistic meta context do not necessarily exist on this scale. This rating serves as an indicator of the severity and frequency of any conspiracy theories promoted by the organisation. Theories that advocate for genocide and aither promote or act as plausible deniability for human rights abuses are rated more harshly. _Maintaining any of the following theories or patterns as fact constitutes an automatic 8 or above:_ Genocide or war crimes denial (apply `state-owned` tag when applicable), genetic inferiority or supremacy of any peoples, and the Great Replacement Theory.
 
 This rating, like other subjective categories, serves more to give an impression of a site than to affix a specific meaning by virtue of numerated values.
 
@@ -92,7 +92,15 @@ Tags denote the overall nature of a publication. Common tags in use now are _sat
 Sample a minimum of five recent articles _(recent: within six months)_. Selection need not be random, and if possible should target pieces that aim to establish a truth claim or narrative from current events. Articles that are syndications of previously published work should not be selected. If it is impossible to avoid syndicated content, their rating may be derived from the parent content's rating. Articles that summarize other content without additional analysis, are not good candidates for determining sourcing, as the facts of a situation may already be widely known _(Ex.: An article tallying election results)_.
 
 ### Fact Checking
+When checking articles for false or misleading claims, recognized fact-checking resources may be used, as well as common sense and, with ample evidence, original research. This project shall organically determine which fact checking organisations may be deemed reliable in their respective fields of expertise, and likewise what standards of original research are permissable on a case by case basis. _Common sense_ fact checking generally applies only to blatanty false information that makes great, extraordianry claims for the purposes of clickbaiting.
 
+Failed fact checks are rated on a severity scale as follows:
+
+Severity | Meaning
+-------- | -------
+Minor    | The failed check does not affect the substance of the article. If retracted or corrected during the article's relevance, it does not count. Incorrect dates, figures and names may be counted within reason as minor fact checking failures.
+Moderate | These failed fact checks
+Severe   | A severe fact check fail impacts the validity of the article of the whole. The central thesis, headline or conclusion must be logically negated to be counted as severe.
 
 ### Bias Analysis
 
