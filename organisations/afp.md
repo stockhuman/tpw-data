@@ -3,7 +3,7 @@ name: AFP (Agence France-Presse)
 url: https://www.afp.com
 country: FRA
 ownership: unknown
-founded: 1835-00-00
+founded: 1835-10-22
 social_media:
 bias_social: 0
 bias_economic: 0
