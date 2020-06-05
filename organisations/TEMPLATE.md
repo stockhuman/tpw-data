@@ -3,7 +3,7 @@ name:
 url:
 country:
 ownership: unknown
-founded: 0000-01-01
+founded: 1000-01-01
 social_media:
 bias_social: 0
 bias_economic: 0
