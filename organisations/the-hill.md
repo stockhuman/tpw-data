@@ -6,7 +6,7 @@ ownership: News Communications Inc
 founded: 1994-09-01
 social_media:
 bias_social: 0
-bias_economic: 0
+bias_governmental: 0
 bias_ideological:
 fact_sourcing: -1
 fact_editorial: 10

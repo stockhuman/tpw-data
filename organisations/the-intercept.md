@@ -6,7 +6,7 @@ ownership: unknown
 founded: 2014-02-01
 social_media:
 bias_social: -6
-bias_economic: -6
+bias_governmental: -6
 bias_ideological: Democratic Socialism, anti-authoritarianism
 fact_sourcing: -1
 fact_editorial: -1

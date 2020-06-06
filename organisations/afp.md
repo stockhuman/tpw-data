@@ -6,7 +6,7 @@ ownership: unknown
 founded: 1835-10-22
 social_media:
 bias_social: 0
-bias_economic: 0
+bias_governmental: 0
 bias_ideological:
 fact_sourcing: -1
 fact_editorial: -1

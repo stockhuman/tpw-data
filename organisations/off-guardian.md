@@ -6,7 +6,7 @@ ownership: unknown
 founded: 2015-04-15 # via WHOIS
 social_media:
 bias_social: -2
-bias_economic: 1
+bias_governmental: 1
 bias_ideological:
 fact_sourcing: -1
 fact_editorial: 3
