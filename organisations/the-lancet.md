@@ -1,19 +1,21 @@
 ---
 name: The Lancet
-url:
-country:
-ownership: unknown
-founded: 1000-01-01
-social_media:
+url: https://www.thelancet.com/
+country: GBR
+ownership: Elsevier (RELX Group) since 1991
+founded: 1823-01-01
+social_media: tw:TheLancet
 bias_social: 0
 bias_governmental: 0
 bias_ideological:
-fact_sourcing: -1
-fact_editorial: -1
+fact_sourcing: 9
+fact_editorial: 10
 subj_pseudoscience: 0
 subj_conspiracy: 0
 subj_message: -1
-tags: []
+tags: [peer-reviewed, journal, biosciences]
 ---
 
-Description
+## Overview
+
+The Lancet is among the world's oldest and best-known general medical journals.
