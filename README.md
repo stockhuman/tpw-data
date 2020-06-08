@@ -2,6 +2,7 @@
 
 ## Meta
 **ownership**: `string`, parent company, proprietor(s) or other
+
 **founded**: `0000-00-00`, date of founding, using domain purchase date if uncertain
 
 ---
