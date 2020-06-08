@@ -60,7 +60,7 @@ Rating | Meaning
 0  | Org. deliberately conceals the authorship of idividual articles and the editorial board
 1  | Org. normally conceals author names (at least one named byline in past 6 months)
 2  | Org. sometimes publishes author name (>50% named bylines)
-3  | Org. only publishes author name
+3  | Org. only publishes author name or publishes other details but author may use a pseudonym
 4  | Org. only publishes author name and some editorial staff
 5  | Same as a 6, but bylines never include a relevant bio.
 6  | same as a 7, but bylines sometimes do not include a relevant bio.
