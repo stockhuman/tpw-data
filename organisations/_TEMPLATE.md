@@ -4,6 +4,7 @@ url:
 country:
 ownership: unknown
 founded: 1000-01-01
+funding:
 social_media:
 bias_social: 0
 bias_governmental: 0
