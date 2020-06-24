@@ -4,7 +4,7 @@ url: https://www.afp.com
 country: FRA
 ownership: unknown
 founded: 1835-10-22
-social_media:
+social_media: tw:afp,ig:afpphoto,
 bias_social: 0
 bias_governmental: 0
 bias_ideological:
