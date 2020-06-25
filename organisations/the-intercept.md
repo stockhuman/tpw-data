@@ -2,8 +2,9 @@
 name: The Intercept
 url: https://theintercept.com/
 country: USA
-ownership: unknown
+ownership: First Look Media
 founded: 2014-02-01
+funding: 501(c)(3), donations
 social_media: tw:theintercept
 bias_social: -6
 bias_governmental: -6
@@ -16,4 +17,4 @@ subj_message: -1
 tags: []
 ---
 
-Description
+## Overview

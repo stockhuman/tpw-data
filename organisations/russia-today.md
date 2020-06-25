@@ -4,6 +4,7 @@ url: https://www.rt.com/
 country: RUS
 ownership: ANO "TV-Novosti"
 founded: 2005-12-05
+funding:
 social_media: tw:RT_com,fb:RTnews,ig:rt,yt:RussiaToday
 bias_social: 4
 bias_governmental: 7

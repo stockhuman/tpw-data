@@ -4,6 +4,7 @@ url: https://www.thelancet.com/
 country: GBR
 ownership: Elsevier (RELX Group) since 1991
 founded: 1823-01-01
+funding:
 social_media: tw:TheLancet
 bias_social: 0
 bias_governmental: 0

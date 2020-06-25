@@ -4,6 +4,7 @@ url: https://www.thenation.com/
 country: USA
 ownership: unknown
 founded: 1865-06-06
+funding:
 social_media:
 bias_social: -8
 bias_governmental: 0

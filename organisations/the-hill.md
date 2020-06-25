@@ -4,6 +4,7 @@ url: https://thehill.com
 country: USA
 ownership: News Communications Inc
 founded: 1994-09-01
+funding:
 social_media:
 bias_social: 0
 bias_governmental: 0

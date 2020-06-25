@@ -4,6 +4,7 @@ url: https://www.infowars.com/
 country: USA
 ownership: unknown
 founded: 1999-03-06
+funding:
 social_media:
 bias_social: 8
 bias_governmental: -3

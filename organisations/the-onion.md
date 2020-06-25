@@ -4,6 +4,7 @@ url: https://theonion.com
 country: USA
 ownership: unknown
 founded: 1988-08-29
+funding:
 social_media:
 bias_social: 0
 bias_governmental: 0

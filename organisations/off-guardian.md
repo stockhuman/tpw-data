@@ -4,6 +4,7 @@ url: https://off-guardian.org
 country:
 ownership: unknown
 founded: 2015-04-15 # via WHOIS
+funding:
 social_media:
 bias_social: -2
 bias_governmental: 1
