@@ -66,7 +66,7 @@ Rating | Meaning
 5  | Same as a 6, but bylines never include a relevant bio.
 6  | same as a 7, but bylines sometimes do not include a relevant bio.
 7  | Same as an 8, but contributions are not filterable by author
-8  | Same as a 10, but publication allows for use of anonymous publishing (less than 12 times per year).
+8  | Same as a 10, but publication allows for use of anonymous publishing (less than 12 times per year) _or_ editorial situation reflects a 10 rating with an exception from ratings 4 through 7 (ex.: Names posted without relevant bio).
 9  | Same as a 10, but publication allows for infrequent use of anonymous publishing (once per year or less).
 10 | Article bylines always include name, relevant bio, and social media links when applicable, contributions are filterable by author, full editorial board and directors are listed on an accesible masthead page when applicable.
 -1 | Org. has never been assessed
