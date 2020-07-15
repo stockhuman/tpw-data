@@ -17,5 +17,9 @@ subj_message: 8
 tags: [state-sponsored]
 ---
 
+## Overview
 
+## Funding
+
+## Scoring
 RT has promoted 9/11 Trutherism ("911 Reasons why 9/11 was (probably) an inside job"), birther conspiracy theories ("Obama’s birthplace mystery raises doubts"), coronavirus disinformation ("Russia Today... broadcast that hand-washing was ineffective against coronavirus", Seth Rich conspiracy theories, Hillary Clinton health conspiracy theories, Bilderberg conspiracy theories, and random-ass 4chan conspiracy theories. RT has no reputation for fact-checking and accuracy. Rather, it has a reputation for falsehoods, conspiracy theories and disinfo.

@@ -4,8 +4,8 @@ url: https://www.thelancet.com/
 country: GBR
 ownership: Elsevier (RELX Group) since 1991
 founded: 1823-01-01
-funding:
-social_media: tw:TheLancet
+funding: Institutional access and submission fees, advertising
+social_media: tw:TheLancet,fb:TheLancetMedicalJournal,yt:TheLancetTV
 bias_social: 0
 bias_governmental: 0
 bias_ideological:
@@ -18,5 +18,4 @@ tags: [peer-reviewed, journal, biosciences]
 ---
 
 ## Overview
-
 The Lancet is among the world's oldest and best-known general medical journals.
