@@ -2,10 +2,10 @@
 name: The Onion
 url: https://theonion.com
 country: USA
-ownership: unknown
+ownership: Great Hill Partners
 founded: 1988-08-29
-funding:
-social_media:
+funding: advertising
+social_media: yt:theonion,ig:theonion,tw:theonion,fb:TheOnion
 bias_social: 0
 bias_governmental: 0
 bias_ideological:
@@ -17,4 +17,4 @@ subj_message: -1
 tags: [satire]
 ---
 
-Description
+## Overview
