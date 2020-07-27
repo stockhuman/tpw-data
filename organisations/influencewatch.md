@@ -8,12 +8,12 @@ funding:
 social_media:
 bias_social: 0
 bias_governmental: 0
-bias_ideological:
+bias_ideological: Conservatism
 fact_sourcing: -1
 fact_editorial: 1
 subj_pseudoscience: 0
 subj_conspiracy: 0
-subj_message: -1
+subj_message: 8
 tags: []
 ---
 
@@ -21,4 +21,4 @@ tags: []
 
 
 ## Scoring
-Articles on the site have no attribution, and contributions are mediated privately by contacing the platform. The site however readily discloses it's parent organisation, which is itself
+Articles on the site have no attribution, and contributions are mediated privately by contacing the platform. The site however readily discloses it's parent organisation, which is itself a self-described right-wing enterprise.
