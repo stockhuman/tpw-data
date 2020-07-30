@@ -18,7 +18,7 @@ tags: [fake-news, single-author]
 ---
 
 ## Overview
-Summit news is an online tabloid authored by Paul Joseph Watson and his brother, Steven Watson. <sup>[WP-JSON](https://summit.news/wp-json/wp/v2/users/)</sup>
+Summit News is an online tabloid authored by Paul Joseph Watson and his brother, Steven Watson. <sup>[WP-JSON](https://summit.news/wp-json/wp/v2/users/)</sup>
 
 ## Funding
 

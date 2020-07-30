@@ -8,7 +8,7 @@ funding:
 social_media:
 bias_social: 8
 bias_governmental: -3
-bias_ideological: Populism-Right
+bias_ideological: Right-populism
 fact_sourcing: 0
 fact_editorial: -1
 subj_pseudoscience: 4
