@@ -13,7 +13,7 @@
 #### bias_social `(-10 - 10)`
 This rating places a publication's average political leaning on the commonly understood social left/right spectrum. As with other attempts at reducing political complexity to so few axes of values, this axis primarily represents the publication's embrace or regection of social values evident in coverage, describing the _desired sociopolitical outcome_ aspect of ideological positions on issues such as healthcare type and availability, religious freedom, moral values, identitarian interests, and the nature of violence. Combined with the ideological descriptor, it can inform bias towards socioeconomic classes or identities.
 
-The frequency of support for political positions (or attack of competing positions) by any means (see bias types factored for analysis) places `-10` as support for anarchy and `10` as support for totalitarianism. A zero indicates either a perfect balance of biases or a lack of content that meaningfully engages with arguments that push this bias in either direction.
+The frequency of support for political positions (or attack of competing positions) by any means (see bias types factored for analysis) places `-10` as support for extreme-left social causes and `10` as support for its far-right equivalent. A zero indicates either a perfect balance of biases or a lack of content that meaningfully engages with arguments that push this bias in either direction.
 
 A data entry must always contain this rating, there is no unrated value.
 
@@ -77,7 +77,7 @@ How often does a publication advertise, advocate for, or otherwise promote pseud
 This rating, like other subjective categories, serves more to give an impression of a site than to affix a specific meaning by virtue of numerated values.
 
 #### subj_conspiracy `(0 - 10)`
-How often does a publication suggest, promote, invent  or otherwise endorse conspiracy theories? Like the pseudoscience rating, publications that explitly cover the aesthetics or meaning of conspiracy theories in an academic or journalistic meta context do not necessarily exist on this scale. This rating serves as an indicator of the severity and frequency of any conspiracy theories promoted by the organisation. Theories that advocate for genocide and aither promote or act as plausible deniability for human rights abuses are rated more harshly. _Maintaining any of the following theories or patterns as fact constitutes an automatic 8 or above:_ Genocide or war crimes denial (apply `state-owned` tag when applicable), genetic inferiority or supremacy of any peoples, and the Great Replacement Theory.
+How often does a publication suggest, promote, invent  or otherwise endorse conspiracy theories? Like the pseudoscience rating, publications that explitly cover the aesthetics or meaning of conspiracy theories in an academic or journalistic meta context do not necessarily exist on this scale. This rating serves as an indicator of the severity and frequency of any conspiracy theories promoted by the organisation. Theories that advocate for genocide and either promote or act as plausible deniability for human rights abuses are rated more harshly. _Maintaining any of the following theories or patterns as fact constitutes an automatic 8 or above:_ Genocide or war crimes denial (apply `state-owned` tag when applicable), genetic inferiority or supremacy of any peoples, and the Great Replacement Theory.
 
 This rating, like other subjective categories, serves more to give an impression of a site than to affix a specific meaning by virtue of numerated values.
 
@@ -102,7 +102,7 @@ Failed fact checks are rated on a severity scale as follows:
 Severity | Meaning
 -------- | -------
 Minor    | The failed check does not affect the substance of the article. If retracted or corrected during the article's relevance, it does not count. The window of relevancy relies greatly on publishing frequency and the prominence of the article within the broader media landscape and the publication itself (ex.: cover stories). Incorrect dates, figures and names may be counted within reason as minor fact checking failures assuming they do not impact the substance of the article.
-Moderate | These failed fact checks _plausibly_ reject the thesis, headline or conclusion of an article. Major _supporting_ claims without evidence may be conunted as moderate or minor depending on the overall claims within a story.
+Moderate | These failed fact checks _plausibly_ reject the thesis, headline or conclusion of an article. Major _supporting_ claims without evidence may be counted as moderate or minor depending on the overall claims within a story.
 Severe   | A severe fact check fail impacts the validity of the article as a whole. The central thesis, headline or conclusion must be logically negated to be counted as severe. Examples include claiming events that did not happen, distorting timelines to fit a narrative, falsifying statements or evidence, presenting false or anachronous statistics (when more recent ones are available) or otherwise directly manipulating reporting to create a false narrative.
 
 ### Bias Analysis
