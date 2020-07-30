@@ -2,9 +2,9 @@
 name: Five Thirty Eight
 url: https://fivethirtyeight.com/
 country: USA
-ownership: unknown
+ownership: Walt Disney Company
 founded: 2008-03-07
-funding:
+funding: advertising
 social_media:
 bias_social: -2
 bias_governmental: 1
