@@ -20,7 +20,7 @@ tags: [fake-news]
 ## Overview
 Infowars is Alex Jones' fake news website<sup>[wiki](https://en.wikipedia.org/wiki/InfoWars#cite_note-fake_news-1)</sup>
 
-[InfoWars Europe](https://europe.infowars.com/) serves as a syndication hub for European-related InfoWars content as well as material from [RT](/russia-today), [Sputnik](/sputnik), [DW](/deutche-welle), [ZeroHedge](/zero-hedge.md) and [France 24](/france-24) among others when they present news items consistent with InfoWars' positions.
+[InfoWars Europe](https://europe.infowars.com/) serves as a syndication hub for European-related InfoWars content as well as material from [RT](/russia-today), [Sputnik](/sputnik), [DW](/deutche-welle), [ZeroHedge](/zero-hedge) and [France 24](/france-24) among others when they present news items consistent with InfoWars' positions.
 
 ## Funding
 InfoWars earns revenue from the sale of products pitched by Jones during the show, including dietary supplements. It has been called as much "an online store that uses Mr. Jones's commentary to move merchandise", as a media outlet.
