@@ -18,7 +18,7 @@ tags: [fake-news]
 ---
 
 ## Overview
-Infowars is Alex Jones' fake news website<sup>(wiki)[https://en.wikipedia.org/wiki/InfoWars#cite_note-fake_news-1]</sup>
+Infowars is Alex Jones' fake news website<sup>[wiki](https://en.wikipedia.org/wiki/InfoWars#cite_note-fake_news-1)</sup>
 
 [InfoWars Europe](https://europe.infowars.com/) serves as a syndication hub for European-related InfoWars content as well as material from [RT](/russia-today), [Sputnik](/sputnik), [DW](/deutche-welle), [ZeroHedge](/zero-hedge.md) and [France 24](/france-24) among others when they present news items consistent with InfoWars' positions.
 
