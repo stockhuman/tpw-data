@@ -20,7 +20,7 @@ tags: []
 ## Overview
 Zero Hedge is a far-right leaning, libertarian finance analysis and news blog. In its formative years, the blog was praised for its early assessments of high frequency trading and corruptive forces in the banking industry.
 
-In March of 2011, Time Magazine ranked Zero Hedge as 9th, in its 25 Best Financial Blogs,with nominator, Bloomberg's Paul Kedrosky, stating that "So while I don't read Zero Hedge regularly—it's too bearish, too conspiratorial and too much of an intellectual monoculture—I like knowing that it exists. Any time I'm feeling like things might just turn out O.K. on planet Economic Earth, I know where to turn to be disabused of that stupid idea."
+In March of 2011, Time Magazine ranked Zero Hedge as 9th, in its 25 Best Financial Blogs, with nominator, Bloomberg's Paul Kedrosky, stating that "So while I don't read Zero Hedge regularly—it's too bearish, too conspiratorial and too much of an intellectual monoculture—I like knowing that it exists. Any time I'm feeling like things might just turn out O.K. on planet Economic Earth, I know where to turn to be disabused of that stupid idea."
 
 The blog is notable beyond its conspiracy theories and pessimistic outlook on finance as a source for in-depth original research from Wall Street investment banks and institutions on securities and other financial instruments or bodies, which are sometimes picked up by the financial media.
 
