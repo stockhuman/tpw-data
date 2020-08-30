@@ -2,7 +2,7 @@
 name: Bellingcat
 url: https://www.bellingcat.com/
 country: GBR
-ownership: unknown
+ownership: Eliot Higgins
 founded: 2014-01-26 # via WHOIS
 funding: International grants
 social_media: tw:bellingcat,
