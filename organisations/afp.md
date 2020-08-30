@@ -21,6 +21,8 @@ tags: [state-sponsored]
 
 
 ## Funding
-The AFP is no longer state-owned, but includes C-level exceutives appointed by the head of state. Currently, Agence France-Presse (AFP) is still supported financially by the French state and gets up to 40 percent of its funding from the French government, but maintains its editorial independence by an act of parliament. In April 2018, AFP’s chairman and CEO Emmanuel Hoog stepped down after failing to secure government support. The French state only controls three of the 18 seats on AFP’s board, however, it is impossible for a CEO to operate without its confidence since the French government through its various agencies is AFP’s principal source of revenue.
+The AFP is no longer state-owned, but includes C-level exceutives appointed by the head of state. Currently, Agence France-Presse (AFP) is still supported financially by the French state and gets up to 40 percent of its funding from the French government, but maintains its editorial independence by an act of parliament.
+
+The French state only controls three of the 18 seats on AFP’s board, however, it is impossible for a CEO to operate without its confidence since the French government through its various agencies is AFP’s principal source of revenue.
 
 ## Scoring
