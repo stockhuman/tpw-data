@@ -5,7 +5,7 @@ country: FRA
 ownership: France Médias Monde
 founded: 2006-12-06
 funding: French Government, advertising
-social_media:
+social_media: fb:FRANCE24,tw:FRANCE24,ig:france24
 bias_social: 0
 bias_governmental: 0
 bias_ideological:
