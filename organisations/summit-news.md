@@ -2,13 +2,13 @@
 name: Summit News
 url: https://summit.news/
 country: GBR
-ownership: unknown
+ownership: Paul Joseph Watson
 founded: 2018-11-10 # via WHOIS
 funding: advertising
 social_media:
-bias_social: 0
+bias_social: 7
 bias_governmental: 0
-bias_ideological:
+bias_ideological: Right-populism
 fact_sourcing: 3
 fact_editorial: 2
 subj_pseudoscience: 0
