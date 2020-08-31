@@ -8,9 +8,9 @@ funding: 501(c)(3), US Government
 social_media: tw:RadioFreeAsia,yt:RFAVideo,fb:RadioFreeAsia.English
 bias_social: 0
 bias_governmental: 0
-bias_ideological:
+bias_ideological: Liberalism
 fact_sourcing: -1
-fact_editorial: -1
+fact_editorial: 4
 subj_pseudoscience: 0
 subj_conspiracy: 0
 subj_message: -1
@@ -30,4 +30,6 @@ The current Radio Free Asia is a US-funded organization, incorporated in March 1
 Radio Free Asia (RFA) is a private, nonprofit international broadcasting agency of the United States government that broadcasts and publishes online news, information, and commentary to listeners in East Asia while “advancing the goals of U.S. foreign policy.” RFA is funded by the Broadcasting Board of Governors (BBG), an independent agency of the United States government responsible for all non-military, international broadcasting sponsored by the U.S government (such as Radio Free Europe), which appoints the board of RFA. RFA distributes content in nine Asian languages for audiences in six countries. RFA is well-sourced and factual in reporting. Radio Free Asia has a very slight left leaning bias in reporting choices.
 
 ## Scoring
-In 1999, Catharin Dalpino of the Brookings Institution, who served in the Clinton State Department as a deputy assistant secretary deputy for human rights, called Radio Free Asia "a waste of money." "Wherever we feel there is an ideological enemy, we're going to have a Radio Free Something," she says. Dalpino said she has reviewed scripts of Radio Free Asia's broadcasts and views the station's reporting as unbalanced. "They lean very heavily on reports by and about dissidents in exile. It doesn't sound like reporting about what's going on in a country. Often, it reads like a textbook on democracy, which is fine, but even to an American it's rather propagandistic."
+RFA sometimes discloses author byline, although it is usually attributed to a RFA regional service, with translators named but not linked to: _Reported by RFA’s Khmer Service. Translated by Samean Yun. Written in English by Joshua Lipes._<sup>[byline](https://www.rfa.org/english/news/cambodia/law-08282020140151.html)</sup>
+
+In 1999, Catharin Dalpino of the Brookings Institution, who served in the Clinton State Department as a deputy assistant secretary deputy for human rights, called Radio Free Asia "a waste of money." "Wherever we feel there is an ideological enemy, we're going to have a Radio Free Something," she says. Dalpino said she has reviewed scripts of Radio Free Asia's broadcasts and views the station's reporting as unbalanced. "T hey lean very heavily on reports by and about dissidents in exile. It doesn't sound like reporting about what's going on in a country. Often, it reads like a textbook on democracy, which is fine, but even to an American it's rather propagandistic."
