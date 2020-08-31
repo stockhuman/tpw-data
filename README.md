@@ -77,7 +77,9 @@ How often does a publication advertise, advocate for, or otherwise promote pseud
 This rating, like other subjective categories, serves more to give an impression of a site than to affix a specific meaning by virtue of numerated values.
 
 #### subj_conspiracy `(0 - 10)`
-How often does a publication suggest, promote, invent  or otherwise endorse conspiracy theories? Like the pseudoscience rating, publications that explitly cover the aesthetics or meaning of conspiracy theories in an academic or journalistic meta context do not necessarily exist on this scale. This rating serves as an indicator of the severity and frequency of any conspiracy theories promoted by the organisation. Theories that advocate for genocide and either promote or act as plausible deniability for human rights abuses are rated more harshly. _Maintaining any of the following theories or patterns as fact constitutes an automatic 8 or above:_ Genocide or war crimes denial (apply `state-owned` tag when applicable), genetic inferiority or supremacy of any peoples, and the Great Replacement Theory.
+How often does a publication suggest, promote, invent  or otherwise endorse conspiracy theories? Like the pseudoscience rating, publications that explitly cover the aesthetics or meaning of conspiracy theories in an academic or journalistic meta-context do not necessarily exist on this scale.
+
+This rating serves as an indicator of the severity and frequency of any conspiracy theories promoted by the organisation. Theories that advocate for genocide and either promote or act as plausible deniability for human rights abuses are rated more harshly. _Maintaining any of the following theories or patterns as fact constitutes an automatic 8 or above:_ Genocide or war crimes denial (apply `state-owned` tag when applicable), genetic inferiority or supremacy of any peoples, and the Great Replacement Theory (and similar racialized conflict meta-theories).
 
 This rating, like other subjective categories, serves more to give an impression of a site than to affix a specific meaning by virtue of numerated values.
 
