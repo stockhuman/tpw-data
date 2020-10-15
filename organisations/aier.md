@@ -7,7 +7,7 @@ founded: 1933-01-01
 funding: 501(c)(3), donations, events, advertising, investment banking
 social_media: tw:aier,fb:aierdotorg
 bias_social: 3
-bias_governmental: -6
+bias_governmental: -7
 bias_ideological: Right-Libertarianism
 fact_sourcing: -1
 fact_editorial: -1
@@ -28,3 +28,6 @@ AIER additionally organises speaking events through the 'Bastiat Society' and ac
 The Bastiat Society partners with the Atlas Network, Ayn Rand Institute, Cato Institute, the State Policy Network, the Charles Koch Institute and other Koch-funded think tanks.
 
 ## Scoring
+AIER Articles, books, videos and talks by affiliated members reliably promote free-market capitalism, and are thus hostile to competing left leaning theories, and interventioninst free-market theories such as advanced by John M. Keynes and Milton Friedman. It does not advocate for anarcho-capitalism outright, but some columns write favourably about it.<sup>[2](https://www.aier.org/article/stateless-in-the-walled-city-of-kowloon/)</sup> As such the governmental bias rating, based on a selection of recent articles (as of October 2020), earns a `-7`.
+
+AIER material criticizes the American political dichotomy, generally taking time to particularly appreciate the difference between populist Republicans and the party's former free-market position.<sup>[1](https://www.aier.org/article/so-you-want-to-overthrow-the-state-ten-questions-for-aspiring-revolutionaries/)</sup> However, most articles that comment on social issues or political affiliation will write favourably of the right over the left, when relevant.
