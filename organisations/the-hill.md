@@ -5,7 +5,7 @@ country: USA
 ownership: News Communications Inc
 founded: 1994-09-01
 funding:
-social_media:
+social_media: tw:thehill,fb:TheHill
 bias_social: 0
 bias_governmental: 0
 bias_ideological:
