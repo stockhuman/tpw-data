@@ -2,7 +2,7 @@
 name: AFP (Agence France-Presse)
 url: https://www.afp.com
 country: FRA
-ownership: independant
+ownership: Fabrice Fries
 founded: 1835-10-22
 funding: advertising, syndication
 social_media: tw:afp,ig:afpphoto,
@@ -18,7 +18,7 @@ tags: [state-sponsored]
 ---
 
 ## Overview
-
+Agence France-Presse is the world's oldest news agency.
 
 ## Funding
 The AFP is no longer state-owned, but includes C-level exceutives appointed by the head of state. Currently, Agence France-Presse (AFP) is still supported financially by the French state and gets up to 40 percent of its funding from the French government, but maintains its editorial independence by an act of parliament.

@@ -8,7 +8,7 @@ funding: 501(c)(3), private donations
 social_media: tw:ceidotorg,fb:CompetitiveEnterpriseInstitute
 bias_social: 0
 bias_governmental: -5
-bias_ideological: Right Libertarianism
+bias_ideological: Right-Libertarianism
 fact_sourcing: 7
 fact_editorial: 10
 subj_pseudoscience: 5

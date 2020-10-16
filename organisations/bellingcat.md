@@ -31,3 +31,5 @@ Per Bellingcat, the organisation "currently receives grants from the following o
 - [Zandstorm CV](https://opencorpdata.com/lei/724500XGLUSJCX5CUQ75) (NLD)
 
 Around 35% of Bellingcat’s budget is currently raised from workshops held by Bellingcat throughout the year and across the world."
+
+## Scoring
