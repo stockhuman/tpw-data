@@ -2,8 +2,8 @@
 name: The Babylon Bee
 url: https://babylonbee.com/
 country: USA
-ownership: unknown
-founded: 1000-01-01
+ownership: Adam Ford
+founded: 2016-03-01
 funding:
 social_media: tw:TheBabylonBee,ig:thebabylonbee,fb:TheBabylonBee
 bias_social: 4
