@@ -2,7 +2,7 @@
 name: Competitive Enterprise Institute
 url: https://cei.org/
 country: USA
-ownership: unknown
+ownership: Kent Lassman # CEO
 founded: 1984-03-09
 funding: 501(c)(3), private donations
 social_media: tw:ceidotorg,fb:CompetitiveEnterpriseInstitute
@@ -21,7 +21,7 @@ tags: []
 Founded by Fred L. Smith, Jr., the Competitive Enterprise Institute (CEI) is a non-profit, libertarian think tank that seeks to advance economic liberty by fighting excessive government regulation because it believes that a free marketplace that allows entrepreneurship and innovation to thrive is better policy. The current President and CEO is Kent Lassman.
 
 ## Funding
-CEI is a nonprofit that is funded through donations. Up until 2006 Exxon-Mobil donated 2 million dollars to the CEI. The CEI does not disclose donors, however they are funded heavily by the Bradley Foundation and the Koch Family as well as numerous gas/oil companies such as Amoco and Texaco.
+CEI is a nonprofit that is funded through donations. Up until 2006 Exxon-Mobil donated 2 million dollars to the CEI. The CEI does not disclose donors, however they are funded heavily by the Bradley Foundation and the Koch Family as well as numerous gas/oil companies such as Amoco and Texaco.<sup>[1](https://www.sourcewatch.org/index.php/Competitive_Enterprise_Institute)</sup>
 
 ## Scoring
 In review, the CEI promotes environmental policies based on limited government regulation and property rights and rejects what they call “global warming alarmism”. Headlines and articles typically contain emotional loaded language that favors the right such as this Wrong Again: 50 Years of Failed Eco-pocalyptic Predictions. This story comes from the questionable climate change denial website RealClimateScience. When not promoting climate change pseudoscience, they advocate for Libertarian positions such as small government and property rights. 
