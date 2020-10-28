@@ -5,15 +5,15 @@ country: USA
 ownership: Matt Drudge
 founded: 1997-02-14 # via ICANN
 funding: advertising
-social_media:
-bias_social: 0
-bias_governmental: 0
-bias_ideological:
+social_media: tw:drudgefeed
+bias_social: 7
+bias_governmental: 4
+bias_ideological: Conservativism
 fact_sourcing: -1
 fact_editorial: -1
 subj_pseudoscience: 0
 subj_conspiracy: 0
-subj_message: -1
+subj_message: 8
 tags: [aggregator, single-author]
 ---
 
@@ -27,5 +27,5 @@ The site aggregates content from a variety of sources including: New York Post, 
 ## Funding
 
 ## Scoring
-
+Being a news aggregator, the pseudoscience, conspiracy and sourcing ratings must be derived from the material it aggregates. 
 Sometimes links to [](https://apnews.com/article/virus-outbreak-race-and-ethnicity-suburbs-health-racial-injustice-7edf9027af1878283f3818d96c54f748), re
