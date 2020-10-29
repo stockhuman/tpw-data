@@ -5,7 +5,7 @@ country: DEU
 ownership:
 founded: 1953-05-03
 funding: German Government, advertising
-social_media:
+social_media: tw:dwnews,ig:dw_deutschlernen,
 bias_social: 0
 bias_governmental: 0
 bias_ideological:
@@ -18,6 +18,8 @@ tags: []
 ---
 
 ## Overview
+
+Additional Twitter accounts listed in DW's own [list](https://twitter.com/i/lists/1232638662917095424)
 
 ## Funding
 
