@@ -5,7 +5,7 @@ country: USA
 ownership: Nash Holdings (Jeff Bezos)
 founded: 1877-12-06
 funding: Advertising, subscriptions
-social_media: tw:washingtonpost
+social_media: tw:washingtonpost,yt:WashingtonPost,fb:washingtonpost
 bias_social: -3
 bias_governmental: 4
 bias_ideological:
