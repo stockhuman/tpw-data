@@ -2,7 +2,7 @@
 name: The Babylon Bee
 url: https://babylonbee.com/
 country: USA
-ownership: Adam Ford
+ownership: Adam Ford, Seth Dillon
 founded: 2016-03-01
 funding:
 social_media: tw:TheBabylonBee,ig:thebabylonbee,fb:TheBabylonBee
