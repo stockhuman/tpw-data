@@ -2,7 +2,7 @@
 name: Sputnik
 url: https://sputniknews.com/
 country: RUS
-ownership: unknown
+ownership: Rossiya Segodnya (Росси́я сего́дня)
 founded: 2014-11-10
 funding: Russian government, advertising
 social_media: yt:SputnikInternational,tw:SputnikInt,ig:sputnik_news,fb:SputnikNews
