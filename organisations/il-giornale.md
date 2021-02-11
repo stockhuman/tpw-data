@@ -1,14 +1,14 @@
 ---
 name: Il Giornale
-url:
+url: https://www.ilgiornale.it/
 country: ITA
-ownership: unknown
-founded: 1000-01-01
+ownership: Società Europea di Edizioni
+founded: 1974-07-25
 funding:
 social_media:
-bias_social: 0
+bias_social: 3
 bias_governmental: 0
-bias_ideological:
+bias_ideological: Conservatism
 fact_sourcing: -1
 fact_editorial: -1
 subj_pseudoscience: 0
