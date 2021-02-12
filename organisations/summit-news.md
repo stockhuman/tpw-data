@@ -14,6 +14,7 @@ fact_editorial: 2
 subj_pseudoscience: 0
 subj_conspiracy: 8
 subj_message: 8
+lang: [en]
 tags: [fake-news, single-author]
 ---
 

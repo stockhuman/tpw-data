@@ -14,6 +14,7 @@ fact_editorial: -1
 subj_pseudoscience: 7
 subj_conspiracy: 9
 subj_message: 9
+lang: [en]
 tags: [fake-news]
 ---
 

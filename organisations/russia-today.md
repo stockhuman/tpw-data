@@ -14,6 +14,7 @@ fact_editorial: -1
 subj_pseudoscience: 4
 subj_conspiracy: 4
 subj_message: 8
+lang: [en, ru, es, ar, de, fr]
 tags: [state-sponsored]
 ---
 

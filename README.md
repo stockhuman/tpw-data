@@ -5,6 +5,8 @@
 
 **founded**: `0000-00-00`, date of founding, using domain purchase date if uncertain
 
+**lang**: `[string]`, languages publication is translated in, or produces separate content for
+
 ---
 
 ### How is data scored?

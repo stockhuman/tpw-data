@@ -14,6 +14,7 @@ fact_editorial: 3
 subj_pseudoscience: 4
 subj_conspiracy: 6
 subj_message: -1
+lang: [en]
 tags: []
 ---
 

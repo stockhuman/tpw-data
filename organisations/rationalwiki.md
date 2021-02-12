@@ -14,6 +14,7 @@ fact_editorial: 3
 subj_pseudoscience: 0
 subj_conspiracy: 0
 subj_message: 0
+lang: [en]
 tags: [user-generated]
 ---
 
