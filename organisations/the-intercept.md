@@ -19,7 +19,7 @@ tags: []
 ---
 
 ## Overview
-The Intercept was launched in February 2014, by First Look Media, which is funded by eBay founder Pierre Omidyar. The publication gained initial attention with its report on the leak of classified NSA documents by Edward Snowden.
+The Intercept was launched in February 2014 by by journalists Glenn Greenwald and Jeremy Scahill and filmmaker Laura Poitras under First Look Media, which is funded by eBay founder Pierre Omidyar. The publication gained initial attention with its first report on the leak of classified NSA documents by Edward Snowden.
 Subsequent reporting on illegal US government surveillance and other global _signals intelligence_ stories with particular focus on the West has established the online-only publication as a reputable source for whistleblowing on major geopolitical players.
 
 The Intercept cites its long term mission as “to provide aggressive and independent adversarial journalism across a wide range of issues, from secrecy, criminal and civil justice abuses and civil liberties violations to media conduct, societal inequality and all forms of financial and political corruption.”
