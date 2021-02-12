@@ -14,7 +14,7 @@ fact_editorial: 3
 subj_pseudoscience: 0
 subj_conspiracy: 0
 subj_message: 0
-lang: [en]
+lang: [en, vi, fr, sv, es, ar, de, it, zh, ru, pt, fa, sh, nl, sr, ja, uk, pl, id, ko, ro, tr, ca, no, hu, fi, cs, he, hi, ms, hy, ur, bn, th, da, eu, eo, uz, be, ca, gb, el, kk, hr, ta, cy, vo, lv, bn]
 tags: [user-generated]
 ---
 
