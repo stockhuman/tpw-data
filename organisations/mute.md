@@ -13,7 +13,7 @@ fact_sourcing: 9
 fact_editorial: 4
 subj_pseudoscience: 0
 subj_conspiracy: 0
-subj_message: 8
+subj_message: 10
 lang: [en]
 tags: []
 ---
