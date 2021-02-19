@@ -56,7 +56,7 @@ Rating | Meaning
 -1 | Org. has never been assessed
 
 #### fact_editorial `(-1 / 0 - 10)`
-This rating reflects how easily one can obtain information regarding the individuals writing for a news organisation. Self-published sources with sole authorship _(a personal blog)_ shall be rated as `-1`, as this scale does not apply.
+This rating reflects how easily one can obtain information regarding the individuals writing for a news organisation. Self-published sources with sole authorship _(i.e.: a personal blog)_ shall be rated as `-1`, as this scale does not apply.
 
 Rating | Meaning
 -- | ------------
