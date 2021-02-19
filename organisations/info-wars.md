@@ -27,4 +27,4 @@ Infowars is Alex Jones' fake news website<sup>[wiki](https://en.wikipedia.org/wi
 InfoWars earns revenue from the sale of products pitched by Jones during the show, including dietary supplements. It has been called as much "an online store that uses Mr. Jones's commentary to move merchandise", as a media outlet.
 
 ## Scoring
-InfoWars, and in particular Jones, advocate numerous conspiracy theories particularly around purported domestic false flag operations by the U.S. Government (which they allege include the 9/11 attacks and Sandy Hook shootings). InfoWars has issued retractions various times as a result of legal challenges
+InfoWars, and in particular Jones, advocate numerous conspiracy theories particularly around purported domestic false flag operations by the U.S. Government (which they allege include the 9/11 attacks and Sandy Hook shootings). InfoWars has issued retractions various times as a result of legal challenges.
