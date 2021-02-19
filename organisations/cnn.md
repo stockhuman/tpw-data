@@ -3,7 +3,7 @@ name: CNN
 url: https://www.cnn.com/
 country: USA
 ownership: AT&T – Time Warner
-founded: 1980-01-01
+founded: 1980-06-01
 funding: advertising
 social_media: tw:cnn,yt:CNN,ig:cnn,fb:cnn
 bias_social: -6
@@ -19,7 +19,7 @@ tags: []
 ---
 
 ## Overview
-CNN (Cable News Network)
+CNN (Cable News Network) is an American basic cable and satellite television news channel, founded in 1980 by American media proprietor Ted Turner. It was the first channel to provide 24-hour news coverage.
 
 ## Funding
 
