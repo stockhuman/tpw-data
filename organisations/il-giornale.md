@@ -4,8 +4,8 @@ url: https://www.ilgiornale.it/
 country: ITA
 ownership: Società Europea di Edizioni
 founded: 1974-07-25
-funding:
-social_media:
+funding: advertising
+social_media: tw:ilgiornale,fb:ilGiornale
 bias_social: 3
 bias_governmental: 0
 bias_ideological: Conservatism
