@@ -22,7 +22,7 @@ tags: []
 Popular Front is a conflict journalism podcast and website operated by Jake Hanrahan, a former [VICE news](/vice) war correspondent.
 
 ## Funding
-Accordinig to their website, Popular Front is supported by individual or reffuring donations on Patreonm, advertising, and merchandise sales.
+Accordinig to their website, Popular Front is supported by individual or reccuring donations on Patreonm, advertising, and merchandise sales.
 
 ## Scoring
 Popular Front notably recognizes and supports the Kurdish people's independent governance from Turkey, Iran, Iraq and Syria. Articles on the subject will support YPG forces and portray them in a positive or sympathetic light against their opponents.
