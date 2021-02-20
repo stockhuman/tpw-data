@@ -19,6 +19,7 @@ tags: [satire]
 ---
 
 ## Overview
+The Babylon Bee is a conservative Christian news satire website that publishes satirical articles on religion, politics, current events, and well-known public figures. It has been referred to in the media as right-wing counterpart of [The Onion](the-onion).
 
 ## Funding
 
