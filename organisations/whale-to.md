@@ -19,7 +19,7 @@ tags: [single-author]
 ---
 
 ## Overview
-_Whale.to_ is John Scudamore's personal collection of conspiratorial and pseudoscientific writings and links. According to the about page <sup>[history](http://whale.to/b/whale_history.html)</sup>, the conspiracies presented by are personal beliefs of the author to some extent or another, even when contradictory. The site promotes new paganism as well as Sandy Hook hoax theories, 9/11 conspiracies, holocaust denial and eastern mysticism.
+_Whale.to_ is John Scudamore's personal collection of conspiratorial and pseudoscientific writings and links. According to the about page <sup>[history](http://whale.to/b/whale_history.html)</sup>, the conspiracies presented on the site are personal beliefs of the author to some extent or another, even when contradictory. The site promotes new paganism as well as Sandy Hook hoax theories, 9/11 conspiracies, holocaust denial and eastern mysticism.
 
 This site is notable as a catalogue of recent conspiracy theories and pseudoscience material from the perspective of a believer.
 
