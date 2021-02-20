@@ -5,7 +5,7 @@ country:
 ownership: unknown
 founded: 2003-10-23 #via WHOIS
 funding: advertising
-social_media:
+social_media: tw:freakonomics,fb:freakonomics
 bias_social: 0
 bias_governmental: 0
 bias_ideological: American Neoliberalism
