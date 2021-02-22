@@ -1,4 +1,7 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # tpw-data
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 ## Meta
 **ownership**: `string`, parent company, proprietor(s) or other
