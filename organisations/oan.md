@@ -34,4 +34,4 @@ During May of 2020, Kristian Rouz working for OAN, claimed "mounting evidence of
 
 OANN regularly uses hostile language towards its political opponents, and does not publish stories critical to its messaging. As such, it earns a `7` in social bias. However, OANN does publish politically neutral reporting, and reporting on non-political topics, lowering the messaging score to `8`.
 
-OANN sometimes conceals authorship, crediting many articles as coming from the "OAN Newsroom." At other times, authors are listed without links to other work or bio.This results in a `2` in editorial transparency.
+OANN sometimes conceals authorship, crediting many articles as coming from the "OAN Newsroom." At other times, authors are listed without links to other work or bio. This results in a `2` in editorial transparency.
