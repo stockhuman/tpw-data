@@ -38,4 +38,4 @@ OffGuardian has published material that supports Russian versions of events, inc
 
 [syria's war on self-defense](https://off-guardian.org/2020/02/28/syrias-war-of-self-defence/)
 
-And in a September 2020 article entitled "The False Flag Poisoning of Alexei Navalny", Max Perry made the case for the poisoning being the work of the British Government, in cooperation with Western allies.[2020.09](https://off-guardian.org/2020/09/25/the-false-flag-poisoning-of-alexei-navalny/)
+And in a September 2020 article entitled "The False Flag Poisoning of Alexei Navalny", Max Perry made the case for the poisoning being the work of the British Government, in cooperation with Western allies. <sup>[2020.09](https://off-guardian.org/2020/09/25/the-false-flag-poisoning-of-alexei-navalny/)</sup>
