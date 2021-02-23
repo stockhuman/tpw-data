@@ -26,7 +26,8 @@ The Drudge report gained initial notoriety for publishing reporting on the mater
 The site aggregates content from a variety of sources including: New York Post, RT
 
 ## Funding
+The site is funded by advertising, notably earning Drudge approximately $3.4 million a month, or $40.8 million a year. <sup>[247](https://247wallst.com/media/2020/10/06/drudge-report-is-worth-over-100-million/)</sup>
 
 ## Scoring
-Being a news aggregator, the pseudoscience, conspiracy and sourcing ratings must be derived from the material it aggregates. 
+Being a news aggregator, the pseudoscience, conspiracy and sourcing ratings must be derived from the material it aggregates.
 Sometimes links to [](https://apnews.com/article/virus-outbreak-race-and-ethnicity-suburbs-health-racial-injustice-7edf9027af1878283f3818d96c54f748), re
