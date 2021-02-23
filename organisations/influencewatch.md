@@ -19,7 +19,7 @@ tags: []
 ---
 
 ## Overview
-
+InfluenceWatch is a database of allegedly center-to-left-wing leaning media figures, investors, buisnesses, NGOs, and news publications that presents Wikipedia-like articles summarizing their history and activities.
 
 ## Scoring
 Articles on the site have no attribution, and contributions are mediated privately by contacing the platform. The site however readily discloses it's parent organisation, which is itself a self-described right-wing enterprise.
