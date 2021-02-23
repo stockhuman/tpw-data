@@ -24,7 +24,7 @@ Bongino Report is a news aggregator similar to [Drudge](/drudgereport) in functi
 The site was started as an explicit challenger to The Drudge Report, perceived at the time of the site's inception as having _betrayed_ the right by aggregating stories unfavourable to Donald Trump.
 
 Canadian Conservative outlet [The Post Millenial](/the-post-millenial) wrote in August of 2020:
-  Bongino has been fiercely critical of Drudge. He then designed his publication to rival the Drudge Report, peeling away the latter's disaffected Trump supporters and teasing in a social media campaign that his Bongino Report would release "exclusively conservative and libertarian content."<sup>[1](https://thepostmillennial.com/bongino-report-replaces-drudge-report-and-its-liberal-drudgery)</sup>
+> Bongino has been fiercely critical of Drudge. He then designed his publication to rival the Drudge Report, peeling away the latter's disaffected Trump supporters and teasing in a social media campaign that his Bongino Report would release "exclusively conservative and libertarian content."<sup>[1](https://thepostmillennial.com/bongino-report-replaces-drudge-report-and-its-liberal-drudgery)</sup>
 
 ## Funding
 This site is funded by advertising. Bongino himself has additional media revenue via his podcast and partial ownership of Rumble, a platform attempting to compete with YouTube.
