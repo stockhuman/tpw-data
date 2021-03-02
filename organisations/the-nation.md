@@ -1,6 +1,6 @@
 ---
 name: The Nation
-url: https://www.thenation.com/
+url: https://www.thenation.com
 country: USA
 ownership: unknown
 founded: 1865-06-06

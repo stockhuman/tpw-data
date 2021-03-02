@@ -1,6 +1,6 @@
 ---
 name: Competitive Enterprise Institute
-url: https://cei.org/
+url: https://cei.org
 country: USA
 ownership: Kent Lassman # CEO
 founded: 1984-03-09

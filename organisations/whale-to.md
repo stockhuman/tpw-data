@@ -1,6 +1,6 @@
 ---
 name: Whale
-url: http://whale.to/
+url: http://whale.to
 country: USA
 ownership: John Scudamore
 founded: 2011-01-01

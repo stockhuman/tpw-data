@@ -1,6 +1,6 @@
 ---
 name: The Lancet
-url: https://www.thelancet.com/
+url: https://www.thelancet.com
 country: GBR
 ownership: Elsevier (RELX Group) since 1991
 founded: 1823-01-01

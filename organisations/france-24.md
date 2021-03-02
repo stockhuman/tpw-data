@@ -1,6 +1,6 @@
 ---
 name: France 24
-url: https://www.france24.com/
+url: https://www.france24.com
 country: FRA
 ownership: France Médias Monde
 founded: 2006-12-06

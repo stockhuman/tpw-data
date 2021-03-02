@@ -1,6 +1,6 @@
 ---
 name: Reductress
-url: https://reductress.com/
+url: https://reductress.com
 country: USA
 ownership: Beth Newell & Sarah Pappalardo
 founded: 2013-04-01

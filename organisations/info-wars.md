@@ -1,6 +1,6 @@
 ---
 name: Info Wars
-url: https://www.infowars.com/
+url: https://www.infowars.com
 country: USA
 ownership: Alex Jones, Free Speech Systems LLC
 founded: 1999-03-06

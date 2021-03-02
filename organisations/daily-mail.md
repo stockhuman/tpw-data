@@ -1,6 +1,6 @@
 ---
 name: Daily Mail
-url: https://www.dailymail.co.uk/
+url: https://www.dailymail.co.uk
 country: GBR
 ownership: DGM Media
 founded: 1896-05-04

@@ -1,6 +1,6 @@
 ---
 name: PBS NewsHour
-url: https://www.pbs.org/newshour/
+url: https://www.pbs.org/newshour
 country: USA
 ownership: PBS
 founded: 1975-10-20

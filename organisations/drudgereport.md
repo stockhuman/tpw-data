@@ -1,6 +1,6 @@
 ---
 name: The Drudge Report
-url: https://www.drudgereport.com/
+url: https://www.drudgereport.com
 country: USA
 ownership: Matt Drudge
 founded: 1997-02-14 # via ICANN

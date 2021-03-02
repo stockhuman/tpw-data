@@ -1,6 +1,6 @@
 ---
 name: CNN
-url: https://www.cnn.com/
+url: https://www.cnn.com
 country: USA
 ownership: AT&T – Time Warner
 founded: 1980-06-01

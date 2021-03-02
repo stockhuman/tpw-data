@@ -1,6 +1,6 @@
 ---
 name: ProPublica
-url: https://www.propublica.org/
+url: https://www.propublica.org
 country: USA
 ownership: Herbert Sandler
 founded: 2007-01-01

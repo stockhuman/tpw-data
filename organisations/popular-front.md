@@ -1,6 +1,6 @@
 ---
 name: Popular Front
-url: https://www.popularfront.co/
+url: https://www.popularfront.co
 country: GBR
 ownership: Jake Hanrahan
 founded: 2018-07-16 #via whois

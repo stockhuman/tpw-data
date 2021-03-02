@@ -1,6 +1,6 @@
 ---
 name: CrimethInc.
-url: https://crimethinc.com/
+url: https://crimethinc.com
 country: USA
 ownership: unknown
 founded: 2000-07-12 #via WHOIS

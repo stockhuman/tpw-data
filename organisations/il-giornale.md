@@ -1,6 +1,6 @@
 ---
 name: Il Giornale
-url: https://www.ilgiornale.it/
+url: https://www.ilgiornale.it
 country: ITA
 ownership: Società Europea di Edizioni
 founded: 1974-07-25

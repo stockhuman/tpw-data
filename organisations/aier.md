@@ -1,6 +1,6 @@
 ---
 name: American Institute for Economic Research (AIER)
-url: https://www.aier.org/
+url: https://www.aier.org
 country: USA
 ownership: Edward Stringham
 founded: 1933-01-01

@@ -1,6 +1,6 @@
 ---
 name: Frontline (PBS)
-url: https://www.pbs.org/wgbh/frontline/
+url: https://www.pbs.org/wgbh/frontline
 country: USA
 ownership: PBS
 founded: 1983-01-17

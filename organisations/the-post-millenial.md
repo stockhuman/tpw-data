@@ -1,6 +1,6 @@
 ---
 name: The Post Millenial
-url: https://thepostmillennial.com/
+url: https://thepostmillennial.com
 country: CAD
 ownership: Matthew Azrieli
 founded: 2017-07-04 #via WHOIS

@@ -1,6 +1,6 @@
 ---
 name: Zero Hedge
-url: https://www.zerohedge.com/
+url: https://www.zerohedge.com
 country: BGR
 ownership: ABC Media Limited
 founded: 2009-01-09

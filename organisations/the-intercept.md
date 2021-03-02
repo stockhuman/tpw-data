@@ -1,6 +1,6 @@
 ---
 name: The Intercept
-url: https://theintercept.com/
+url: https://theintercept.com
 country: USA
 ownership: First Look Media
 founded: 2014-02-01

@@ -1,6 +1,6 @@
 ---
 name: DW
-url: https://www.dw.com/
+url: https://www.dw.com
 country: DEU
 ownership:
 founded: 1953-05-03

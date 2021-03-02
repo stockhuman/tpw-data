@@ -1,10 +1,10 @@
 ---
 name: Military.com
-url: https://www.military.com/
+url: https://www.military.com
 country: USA
 ownership: Randstad N.V.
 founded: 1999-01-01
-funding: 
+funding:
 social_media:
 bias_social: 0
 bias_governmental: 0

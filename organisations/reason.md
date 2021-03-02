@@ -1,6 +1,6 @@
 ---
 name: Reason
-url: https://reason.com/
+url: https://reason.com
 country: USA
 ownership: unknown
 founded: 1000-01-01

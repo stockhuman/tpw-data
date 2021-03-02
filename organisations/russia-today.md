@@ -1,6 +1,6 @@
 ---
 name: RT
-url: https://www.rt.com/
+url: https://www.rt.com
 country: RUS
 ownership: ANO "TV-Novosti"
 founded: 2005-12-05

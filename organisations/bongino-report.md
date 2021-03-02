@@ -1,6 +1,6 @@
 ---
 name: Bongino Report
-url: https://bonginoreport.com/
+url: https://bonginoreport.com
 country: USA
 ownership: Dan Bongino
 founded: 2019-12-04

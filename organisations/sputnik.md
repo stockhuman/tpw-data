@@ -1,6 +1,6 @@
 ---
 name: Sputnik
-url: https://sputniknews.com/
+url: https://sputniknews.com
 country: RUS
 ownership: Rossiya Segodnya (Росси́я сего́дня)
 founded: 2014-11-10

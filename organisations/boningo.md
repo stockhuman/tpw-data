@@ -1,6 +1,6 @@
 ---
 name: The Dan Bongino Show
-url: https://bongino.com/
+url: https://bongino.com
 country: USA
 ownership: Dan Bongino
 founded: 2008-02-04 # via WHOIS

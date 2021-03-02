@@ -1,6 +1,6 @@
 ---
 name: PJ Media
-url: pjmedia.com
+url: https://pjmedia.com
 country: USA
 ownership: Salem Media Group
 founded: 2005-01-01

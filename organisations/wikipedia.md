@@ -1,6 +1,6 @@
 ---
 name: Wikipedia
-url: https://www.wikipedia.org/
+url: https://www.wikipedia.org
 country: USA
 ownership: Wikimedia Foundation
 founded: 2001-01-15

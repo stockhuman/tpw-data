@@ -1,6 +1,6 @@
 ---
 name: Freakonomics
-url: https://freakonomics.com/
+url: https://freakonomics.com
 country:
 ownership: unknown
 founded: 2003-10-23 #via WHOIS

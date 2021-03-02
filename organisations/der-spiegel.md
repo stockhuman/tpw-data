@@ -1,8 +1,8 @@
 ---
 name: Der Spiegel
-url: https://www.spiegel.de/
+url: https://www.spiegel.de
 country: DEU
-ownership: SPIEGEL‑Verlag Rudolf Augstein GmbH & Co. KG 
+ownership: SPIEGEL‑Verlag Rudolf Augstein GmbH & Co. KG
 founded: 1947-01-04
 funding:
 social_media: tw:derspiegel,fb:derspiegel

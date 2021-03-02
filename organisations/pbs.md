@@ -1,6 +1,6 @@
 ---
 name: Public Broadcasting Service
-url: https://www.pbs.org/
+url: https://www.pbs.org
 country: USA
 ownership: unknown
 founded: 1969-11-03

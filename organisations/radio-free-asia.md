@@ -1,6 +1,6 @@
 ---
 name: Radio Free Asia
-url: https://www.rfa.org/
+url: https://www.rfa.org
 country: USA
 ownership: U.S. Agency for Global Media
 founded: 1951-01-01

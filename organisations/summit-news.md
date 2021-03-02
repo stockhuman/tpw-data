@@ -1,6 +1,6 @@
 ---
 name: Summit News
-url: https://summit.news/
+url: https://summit.news
 country: GBR
 ownership: Paul Joseph Watson
 founded: 2018-11-10 # via WHOIS

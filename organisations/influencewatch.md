@@ -1,6 +1,6 @@
 ---
 name: InfluenceWatch
-url: https://www.influencewatch.org/
+url: https://www.influencewatch.org
 country: USA
 ownership: Capital Research Center
 founded: 2016-08-08 # via WHOIS

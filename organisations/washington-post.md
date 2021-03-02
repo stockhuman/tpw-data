@@ -1,6 +1,6 @@
 ---
 name: The Washington Post
-url: https://www.washingtonpost.com/
+url: https://www.washingtonpost.com
 country: USA
 ownership: Nash Holdings (Jeff Bezos)
 founded: 1877-12-06

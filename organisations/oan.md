@@ -1,6 +1,6 @@
 ---
 name: One America News Network
-url: https://www.oann.com/
+url: https://www.oann.com
 country: USA
 ownership: Herring Networks Inc.
 founded: 2004-08-12 # via WHOIS, about page

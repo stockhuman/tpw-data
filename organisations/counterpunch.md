@@ -1,6 +1,6 @@
 ---
 name: CounterPunch
-url: https://www.counterpunch.org/
+url: https://www.counterpunch.org
 country: USA
 ownership: The Institute for the Advancement of Journalistic Clarity
 founded: 1996-01-01

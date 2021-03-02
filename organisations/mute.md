@@ -1,6 +1,6 @@
 ---
 name: Mute
-url: https://www.metamute.org/
+url: https://www.metamute.org
 country: GBR
 ownership: Simon Worthington and Pauline van Mourik Broekman
 founded: 1994-01-01
