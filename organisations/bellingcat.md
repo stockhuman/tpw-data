@@ -34,3 +34,4 @@ Per Bellingcat, the organisation "currently receives grants from the following o
 Around 35% of Bellingcat’s budget is currently raised from workshops held by Bellingcat throughout the year and across the world."
 
 ## Scoring
+This organisation has at the time of writing not published anything that would warrant a deduction from the sourcing cretieria, earning it a `10`.
