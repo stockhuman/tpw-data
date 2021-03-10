@@ -1,13 +1,13 @@
 ---
-name: CopBlock
+name: Cop Block
 url: https://www.copblock.org
 country: USA
-ownership: unknown
+ownership: Peter Eyre, Adam Mueller
 founded: 2010-01-01
-funding: donations
-social_media:
+funding: donations, advertising, merch
+social_media: tw:copblock,ig:cop_block,fb:copblockorg
 bias_social: 0
-bias_governmental: -7
+bias_governmental: -8
 bias_ideological: Libertarianism
 fact_sourcing: 6
 fact_editorial: 2
@@ -27,5 +27,11 @@ Among these were several other popular pages dedicated to police accountability 
 Most recent articles on the site as of 2020 are attributed to "Ian Freeman."
 
 ## Funding
+Cop Block visibly serves ads and has an online store selling various branded items.
 
 ## Scoring
+Cob Block is run by Libertarians and Anarchists, and seldom engages in topics outside of its stated scope. As such, it earns a `-8` in esablishment and a `0` in social bias.
+
+Cop Block does not list an editorial page, and many articles are misattributed, earning it a `2` in editorial transparency.
+
+As the site exists to highlight instances of police corruption, brutality and hostility to citizens, it naturally does not present alternative viewpoints, and as such earns a `10` on messaging.
