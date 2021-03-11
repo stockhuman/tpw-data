@@ -10,7 +10,7 @@ bias_social: 4
 bias_governmental: 7
 bias_ideological:
 fact_sourcing: -1
-fact_editorial: -1
+fact_editorial: 4
 subj_pseudoscience: 4
 subj_conspiracy: 4
 subj_message: 8
@@ -23,4 +23,6 @@ tags: [state-sponsored]
 ## Funding
 
 ## Scoring
-RT has promoted 9/11 Trutherism ("911 Reasons why 9/11 was (probably) an inside job"), birther conspiracy theories ("Obama’s birthplace mystery raises doubts"), coronavirus disinformation ("Russia Today... broadcast that hand-washing was ineffective against coronavirus", Seth Rich conspiracy theories, Hillary Clinton health conspiracy theories, Bilderberg conspiracy theories, and random-ass 4chan conspiracy theories. RT has no reputation for fact-checking and accuracy. Rather, it has a reputation for falsehoods, conspiracy theories and disinfo.
+Article authorship on news items is normally uncredited, with Op-Eds usually featuring bylines. Of those bylines, most include a relevant bio and some links to other work or social media. RT lists the Editor-in-Chief and Managing Director in a "Management" page. This all corresponds to a editorial transparency score of `4`.
+
+RT has promoted 9/11 Trutherism ("911 Reasons why 9/11 was (probably) an inside job" - Minor disclaimer added)<sup>[1](http://web.archive.org/web/20200810165611/https://www.rt.com/usa/nine-eleven-attack-job/)</sup>, birther conspiracy theories ("Obama’s birthplace mystery raises doubts"), Seth Rich conspiracy theories, Hillary Clinton health conspiracy theories, Bilderberg conspiracy theories, and the odd 4chan theory. RT has a poor reputation for fact-checking and accuracy.
