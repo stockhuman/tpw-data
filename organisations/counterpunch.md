@@ -5,7 +5,7 @@ country: USA
 ownership: The Institute for the Advancement of Journalistic Clarity
 founded: 1996-01-01
 funding: donations
-social_media:
+social_media: tw:NatCounterPunch
 bias_social: -8
 bias_governmental: -4
 bias_ideological: Democratic Socialism
