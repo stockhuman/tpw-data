@@ -31,6 +31,6 @@ Editorially, the primary purpose of the CEI is to mislead on climate change. The
 
 Overall, we rate the Competitive Enterprise Institute Questionable based on far right bias, promotion of propaganda, use of poor sources, lack of transparency with funding,
 
-CEI's frequent rejection of scientific consensus regarding climate change earns it a 5 in pseudoscience. All articles on the topic operate wither by avoiding the topic or denying claims outright.
+CEI's frequent rejection of scientific consensus regarding climate change earns it a 5 in pseudoscience. All articles related to the topic either avoid the issue or deny claims outright.
 
-CEI publishes author name with extensive linked bio and lists all editorial staff, earning it a 10 in editorial transparency.
+CEI publishes author name with extensive linked bio and lists all editorial staff, earning it a `10` in editorial transparency.
