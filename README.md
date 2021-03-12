@@ -6,11 +6,15 @@
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Meta
-**ownership**: `string`, parent company, proprietor(s) or other
+**ownership**: `string`, parent company, proprietor(s) or other.
 
-**founded**: `0000-00-00`, date of founding, using domain purchase date if uncertain
+**founded**: `0000-00-00`, date of founding, formatted as a ISO 8601 string, using domain purchase date if uncertain.
 
-**lang**: `[string]`, languages publication is translated in, or produces separate content for
+**country**: `string`, the nationality of the organisation, as an [ISO 3166-1 Alpha-3](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) code, if applicable. If the organisation outlasts a given nation, use the successor state. If the organisation legally moves, but maintains both a physical presence and cultural or editorial focus on the original nation, keep the original nation.
+
+**url**: `string`, the url of the publication. Publication must exist (or have existed) online to be included in this dataset, and thus this field cannot be empty. No trailing slashes unless necessary. Should reflect the most up-to-date URL, in the event of a domain change.
+
+**lang**: `[string]`, languages publication is translated in, or produces separate content for.
 
 ---
 
