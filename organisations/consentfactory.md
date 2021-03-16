@@ -15,7 +15,7 @@ subj_pseudoscience: 4
 subj_conspiracy: 6
 subj_message: -1
 lang: [en]
-tags: [single-author]
+tags: [single-author, blog]
 ---
 
 ## Overview
