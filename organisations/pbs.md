@@ -2,7 +2,7 @@
 name: Public Broadcasting Service
 url: https://www.pbs.org
 country: USA
-ownership: unknown
+ownership: Paula Kerger (CEO)
 founded: 1969-11-03
 funding: United States government, donations
 social_media: ig:pbs,tw:PBS,fb:pbs
@@ -15,7 +15,7 @@ subj_pseudoscience: 0
 subj_conspiracy: 0
 subj_message: -1
 lang: [en]
-tags: []
+tags: [state-sponsored]
 ---
 
 ## Overview
