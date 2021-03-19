@@ -69,7 +69,7 @@ This rating reflects how easily one can obtain information regarding the individ
 
 Rating | Meaning
 -- | ------------
-0  | Org. deliberately conceals the authorship of idividual articles and the editorial board
+0  | Org. deliberately conceals the authorship of individual articles and the editorial board
 1  | Org. normally conceals author names (at least one named byline in past 6 months)
 2  | Org. sometimes publishes author name (>50% named bylines)
 3  | Org. only publishes author name or publishes other details but author may use a pseudonym
