@@ -5,7 +5,7 @@ country: USA
 ownership: unknown
 founded: 1000-01-01
 funding:
-social_media:
+social_media: tw:reason,fb:Reason.Magazine
 bias_social: 0
 bias_governmental: 0
 bias_ideological: Right-Libertarianism
@@ -23,3 +23,5 @@ tags: []
 ## Funding
 
 ## Scoring
+
+[Ways Elon Musk and Other Billionaires Get Welfare for the Rich](https://www.youtube.com/watch?v=SVhyBvmwzXM)
