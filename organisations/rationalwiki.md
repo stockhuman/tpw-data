@@ -27,4 +27,4 @@ RationalWiki, despite using the same platform and thus appearance of Wikipedia, 
 
 The size and scope of RationalWiki makes a sourcing rating unrealistic. Some articles are well-cited, despite the explicit bias for or against any given topic, whilst others completely lack sources - a problem common to wiki sites.
 
-The editorial transparency score, given anonymous edits, corresponds to a three.
+The editorial transparency score, given anonymous edits, corresponds to a `3`.
