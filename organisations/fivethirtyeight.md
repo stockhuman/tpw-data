@@ -27,6 +27,6 @@ Previously a [New York Times](/new-york-times) column ran by Nate Silver, 538 wa
 The site is supported by advertising revenue, and operates under [ABC News](/abc)' network (itself also a Walt Disney property).
 
 ## Scoring
-The site reliably cites sources and even hosts open data on Github, and provides a linked bio with every author, including the masthead.
+The site reliably cites sources and even hosts [open data on Github](https://github.com/fivethirtyeight/data), and provides a linked bio with every author, including the masthead.
 
 Coverage of US election politics favors Neoliberal candidates from the Democratic Party (sometimes known as "corporate Democrats") and discounts "progressive", or left-leaning candidates.
