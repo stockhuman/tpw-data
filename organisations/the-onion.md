@@ -19,3 +19,7 @@ tags: [satire]
 ---
 
 ## Overview
+
+## Funding
+
+## Scoring
