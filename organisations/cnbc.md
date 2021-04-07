@@ -1,11 +1,11 @@
 ---
-name: The Onion
-url: https://theonion.com
+name: CNBC
+url: https://www.cnbc.com
 country: USA
-ownership: Great Hill Partners
-founded: 1988-08-29
-funding: advertising
-social_media: yt:theonion,ig:theonion,tw:theonion,fb:TheOnion
+ownership: unknown
+founded: 1000-01-01
+funding:
+social_media: tw:cnbc,ig:cnbc,fb:cnbc
 bias_social: 0
 bias_governmental: 0
 bias_ideological:
@@ -15,7 +15,7 @@ subj_pseudoscience: 0
 subj_conspiracy: 0
 subj_message: -1
 lang: [en]
-tags: [satire]
+tags: []
 ---
 
 ## Overview

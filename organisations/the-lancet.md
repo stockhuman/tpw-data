@@ -20,3 +20,7 @@ tags: [peer-reviewed, journal, biosciences]
 
 ## Overview
 The Lancet is among the world's oldest and best-known general medical journals.
+
+## Funding
+
+## Scoring
