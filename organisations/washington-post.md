@@ -10,7 +10,7 @@ bias_social: -3
 bias_governmental: 4
 bias_ideological: Neoliberalism
 fact_sourcing: 7
-fact_editorial: 10
+fact_editorial: 9
 subj_pseudoscience: 0
 subj_conspiracy: 0
 subj_message: 7
@@ -33,4 +33,4 @@ The Washington Post runs stories with emotionally loaded headlines and body cont
 
 WaPo has published [fake news](https://www.snopes.com/fact-check/report-vermont-power-grid-infiltrated-by-russian-hackers/) and [items with dubious](https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html) [sources before](https://www.washingtonpost.com/business/economy/russian-propaganda-effort-helped-spread-fake-news-during-election-experts-say/2016/11/24/793903b6-8a40-4ca9-b712-716af66098fe_story.html) with slow or half-hearted retractions. As such, it earns a `7` in sourcing.
 
-It notably has an anti-progressive stance with regards to the Democratic party.<sup>[1](https://fair.org/home/wapo-warns-progressive-dems-they-could-win/) [2](https://www.rollingstone.com/politics/political-commentary/bernie-sanders-washington-post-media-complaint-872349/)</sup>
+It notably has an anti-progressive stance with regards to the Democratic party.<sup>[1](https://fair.org/home/wapo-warns-progressive-dems-they-could-win/) [2](https://www.rollingstone.com/politics/political-commentary/bernie-sanders-washington-post-media-complaint-872349/)</sup> The Washington Post's opinion section includes stances consistent with US foreign policy objectives, notably including support for the 2019 Bolivian coup and rejection of the subsequent socialist government.<sup>[3](http://archive.is/Bps2f) [4](https://www.nytimes.com/2020/02/28/world/americas/bolivia-election-fraud.html) [5](https://fair.org/home/wapo-prints-study-that-found-paper-backed-an-undemocratic-bolivia-coup/)</sup> Some opinion articles are credited to the "Editorial Board" and therefore anonymous. This corresponds to a `9` in editorial transparency.
