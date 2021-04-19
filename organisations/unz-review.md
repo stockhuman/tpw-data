@@ -27,7 +27,7 @@ The site notably hosts digitized copies of many English publications, dating bac
 The website does not display ads, but offers a Patreon subscription, earning ~US1620 per month.
 
 ## Scoring
-The Unz Review, either through Unz himself<sup>[2](https://www.unz.com/runz/american-pravda-holocaust-denial/), [3](https://spectator.us/topic/ron-unz/)</sup> or through contributors<sup>[4]()</sup>, has promoted Holocaust denial<sup>[](https://www.unz.com/ldinh/juden-uber-alles/)</sup>, white supremacism and other dangerous conspiratorial material. As such, it earns an automatic `10` in conspiracy.
+The Unz Review, either through Unz himself<sup>[2](https://www.unz.com/runz/american-pravda-holocaust-denial/), [3](https://spectator.us/topic/ron-unz/)</sup> or through contributors<sup>[4]()</sup>, has promoted Holocaust denial<sup>[5](https://www.unz.com/ldinh/juden-uber-alles/)</sup>, white supremacism and other dangerous conspiratorial material. As such, it earns an automatic `10` in conspiracy.
 
 Promotion of _HBD_, the contemporary euphemism for _scientific racism_ or _racialism_ and anti-vax rhetoric earns it a `4`, if only for its relative infrequency.
 
