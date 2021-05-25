@@ -23,9 +23,7 @@ _CrimethInc._ is a decentralized, anarchist collective that publishes long-form 
 
 It has since published widely read articles and zines for the anarchist movement and distributed posters and books of its own publication. CWC does use occasional emotional language, but all information is well sourced and linked to facts.
 
-## Funding
-
 ## Scoring
-CrimethInc. earns a `-9` on their political opposition to capitalism and advocacy for workers. These political positions are considered left wing in today’s political environment. Given the anarcho-friendly stances within articles and generalised counter-narrative opposition pieces, it scores a `-9` on pro-establishment.
+CrimethInc. earns a `-9` on their political opposition to capitalism and advocacy for workers. These political positions are considered left wing in today’s political environment. Given the _anarcho-friendly_ stances within articles and generalised counter-narrative opposition pieces, it scores a `-9` on pro-establishment.
 
 Articles on CrimethInc have no attribution, and no masthead exists, given the nature of the collective. By virtue of this arrangement, editorial decisions are opaque. As such it scores a `0` in editorial transparency.
