@@ -2,9 +2,9 @@
 name: CBS
 url: https://www.cbs.com
 country: USA
-ownership: unknown
-founded: 1000-01-01
-funding:
+ownership: ViacomCBS
+founded: 1927-01-27
+funding: advertising
 social_media:
 bias_social: 0
 bias_governmental: 0
